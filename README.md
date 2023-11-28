@@ -1,7 +1,7 @@
 Test Clickhouse Backend
 ===
 
-Project to display issue [#58](https://github.com/jayvynl/django-clickhouse-backend/issues/58) 
+Project to display issue [#62](https://github.com/jayvynl/django-clickhouse-backend/issues/62) 
 
 
 Steps
